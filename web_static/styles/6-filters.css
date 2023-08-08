@@ -54,6 +54,8 @@
     display: none;
     background-color: #FAFAFA;
     border: solid 1px #DDDDDD;
+    padding-left: 30px;
+    padding-top: 20px;
     border-radius: 4px;
     text-align: left;
     position: relative;
